@@ -45,6 +45,7 @@ b {
 .social {
     float: right;
     width: 160px;
+    margin-left: 0.25rem;
 }
 #container > header h1 {
   font-size: 2rem;
